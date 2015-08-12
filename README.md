@@ -1,4 +1,4 @@
-# FIFO_JVM
+# adaptive_JVM
 Workload characterization of multithreaded JVM applications and Adaptive scheduled JVM with improved GC
 
 1. Collection of tools used in profiling for multithreaded JVM applications on multicore processors, involving both application level and system level
