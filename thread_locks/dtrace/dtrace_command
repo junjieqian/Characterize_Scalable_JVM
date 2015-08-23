@@ -1,0 +1,1 @@
+./monitor.d -c "java -XX:+DTraceMonitorProbes -XX:+ExtendedDTraceProbes -jar dacapo.jar sunflow -t 32" > sunflow.txt
